@@ -15,12 +15,14 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
        
-        //hello WOlod
+        //hello World
         //System.out.println("Hello World by EJ!");
         
         //Ex0 2
         System.out.println("j'affiche un message");
         System.out.println("sur deux lignes.");
+        
+        
     
     }
     
